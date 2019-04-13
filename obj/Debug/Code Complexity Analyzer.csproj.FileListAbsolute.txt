@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Code Complexity Analyzer\Code Complexity Analyzer\bin\Debug\Code Complexity Analyzer.exe
+c:\users\user\documents\visual studio 2015\Projects\Code Complexity Analyzer\Code Complexity Analyzer\bin\Debug\Code Complexity Analyzer.pdb
+c:\users\user\documents\visual studio 2015\Projects\Code Complexity Analyzer\Code Complexity Analyzer\obj\Debug\Code Complexity Analyzer.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Code Complexity Analyzer\Code Complexity Analyzer\obj\Debug\Code Complexity Analyzer.exe
+c:\users\user\documents\visual studio 2015\Projects\Code Complexity Analyzer\Code Complexity Analyzer\obj\Debug\Code Complexity Analyzer.pdb
